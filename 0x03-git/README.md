@@ -1,1 +1,1 @@
-<p>Project 0x03-git</p>
+<p>Project project 0x03-git</p>
