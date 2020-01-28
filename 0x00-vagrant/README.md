@@ -1,0 +1,1 @@
+<p>Hello Ubuntu - Directory 0x00-vagrant</p>
